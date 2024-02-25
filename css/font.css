@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Font Free-Net-ir_sans';
+	src: url('../fonts/FontsFree-Net-ir_sans.eot');
+	src: local('FontsFree-Net-ir_sans'),
+    url('../fonts/FontsFree-Net-ir_sans.woff') format('woff'),
+    url('../fonts/FontsFree-Net-ir_sans.ttf') format('truetype'),
+    url('../fonts/FontsFree-Net-ir_sans.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
